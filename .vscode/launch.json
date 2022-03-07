@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "subka_bazaar",
+            "request": "launch",
+            "type": "dart",
+            "program": "/Users/utkgupta2/Projects/Flutter/SabkaBazaar/subka_bazaar/lib/screens/main.dart"
+        },
+        
+        {
+            "name": "subka_bazaar (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "path_provider",
+            "cwd": "path_provider",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "path_provider (profile mode)",
+            "cwd": "path_provider",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "shared_pref",
+            "cwd": "shared_pref",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "shared_pref (profile mode)",
+            "cwd": "shared_pref",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
